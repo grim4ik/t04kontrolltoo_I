@@ -1,7 +1,7 @@
 public class Test{
 
 	public static double kiirusedKokku(double kiirus1, double kiirus2) {
-		return  2 / (1/kiirus1 + 1/kiirus2);
+		return  (kiirus1 + kiirus2) / 2;
 	}
 
 	public static void main(String[] args) {

@@ -5,7 +5,7 @@ public class Test{
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Kahe kilomeetri labimise keskmine kiirus on "+kiirusedKokku(70.0, 98.0)+" km/h");
+		System.out.println("Kahe kilomeetri labimise keskmine kiirus on "+kiirusedKokku(30.0, 60.0)+" km/h");
 	}
 
 }
